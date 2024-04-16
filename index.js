@@ -1,5 +1,5 @@
 export const bannerConfig = {
     link: `https://chainide.com/events/`,
-    pcImg: `pc.jpg`,
-    mobileImg: `mobile.jpg`
+    pcImg: `/imgs/pc.jpg`,
+    mobileImg: `/imgs/mobile.jpg`
 }
